@@ -7,7 +7,7 @@ url: http://joshuaarnold.com
 title: Accidentally in ministry
 subtitle: ...and loving it
 gravatar_url: https://en.gravatar.com/userimage/1871948/4620e5098f38dbd118d106745ae96ff4.jpg?size=200
-subscribe_rss: http://feeds.haacked.com/haacked
+subscribe_rss: http://feeds.feedburner.com/joshua-arnold
 
 # Github repositories
 github_user: jmarnold
@@ -22,7 +22,7 @@ disqus_short_name: jmarnold
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-177588-1
+google_analytics_tracking_id: UA-50681318-1
 
 
 #

@@ -1,0 +1,40 @@
+#
+# Blog Settings
+#
+author: Joshua Arnold
+description: Thoughts on fatherhood, leadership, marriage, and ministry.
+url: http://joshuaarnold.com
+title: Accidentally in ministry
+subtitle: ...and loving it
+gravatar_url: https://en.gravatar.com/userimage/1871948/4620e5098f38dbd118d106745ae96ff4.jpg?size=200
+subscribe_rss: http://feeds.haacked.com/haacked
+
+# Github repositories
+github_user: jmarnold
+github_repo_url: https://github.com/jmarnold/joshuaarnold.com
+
+# Twitter
+twitter_user: jmarnold
+twitter_tweet_button: true
+
+# Disqus Comments
+disqus_short_name: jmarnold
+disqus_show_comment_count: true
+
+# Google Analytics
+google_analytics_tracking_id: UA-177588-1
+
+
+#
+# Jekyll Settings
+#
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+permalink: /archive/:year/:month/:day/:title/
+paginate: 20
+paginate_path: "page/:num"
+category_dir: categories
+
+gems:
+  - jekyll-redirect-from

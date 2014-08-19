@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In the land of Moriah
-date: 2014-05-07 10:44 -0800
+date: 2014-05-16 10:44 -0800
 comments: true
 categories: [faith]
 ---

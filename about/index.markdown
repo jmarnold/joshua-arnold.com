@@ -20,8 +20,4 @@ I'm a passionate member of the worship team, we're leaders within Youth ministry
 
 ## Where to find us
 
-My family and I are volunteers and members at The Exchange Church in Round Rock, TX. 
-
-## Disclaimer
-
-We are active within our church but the views, statements, and theology expressed here does not represent those of The Exchange Church.
+My family and I are volunteers and members at The Exchange Church in Round Rock, TX.
